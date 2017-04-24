@@ -28,3 +28,5 @@ This one-time workshop aims to provide an overview of results, applications and 
 
 ## Sponsors
 
+![Villum](src/villum.jpg)
+
