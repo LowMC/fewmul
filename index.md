@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+Cryptographic primitives realized with few multiplications can significantly improve (or even enable!) applications in areas as diverse as homomorphic encryption, side-channel attack countermeasures, secure multiparty computation, or zero-knowledge proofs.
 
-You can use the [editor on GitHub](https://github.com/LowMC/fewmul/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This one-time workshop aims to provide an overview of results, applications and current research in this area. This covers theory, design and analysis, as well as implementations. Major goals are to bring together researchers from the unusual set of relevant disciplines within cryptography/security and outside (e.g. circuit complexity), and to identify open problems and more applications.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ * **Location:** [Jussieu campus of Université Pierre et Marie Curie](https://www.ieee-security.org/TC/EuroSP2017/venue.php)
+ * **Date:** Sunday, April 30th, 2017
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##Program
 
-```markdown
-Syntax highlighted code block
+| **Time**      | **Speaker**               | **Title**                                         |
+|:--------------|:--------------------------|:--------------------------------------------------|
+| 08:00--09:00  | Breakfast                 |                                                   |
+| **Session on Side-Channel Topics**                                                            |
+| 09:00--09:45  | Francois-Xavier Standaert | TBA                                               |
+| 09:45--10:30  | Begül Bilgin              | Threshold implementations against side-channel attacks, and multiplications |
+| 10:30--11:00  | Break                     |                                                   |
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LowMC/fewmul/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
