@@ -30,3 +30,4 @@ This one-time workshop aims to provide an overview of results, applications and 
 
 ![Villum](img/villum.jpg)
 
+![DTU](img/dtu.jpg)
