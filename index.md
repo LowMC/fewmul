@@ -13,7 +13,7 @@ This one-time workshop aims to provide an overview of results, applications and 
 | 08:00--09:00  | Breakfast                 |               |
 | **Session on Side-Channel Topics** |      |               |
 | 09:00--09:45  | Francois-Xavier Standaert | TBA           |
-| 09:45--10:30  | Begül Bilgin              | Threshold implementations against side-channel attacks, and multiplications |
+| 09:45--10:30  | Begül Bilgin              | FewMul-FewDepth-FewLength Triangle |
 | 10:30--11:00  | Break                     |               |
 | **Session on Foundations** |              |               |
 | 11:00--12:00  | Rene Peralta              | Functions with known multiplicative complexity |
