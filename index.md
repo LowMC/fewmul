@@ -22,15 +22,15 @@ This one-time workshop aims to provide an overview of results, applications and 
 | 14:00--15:30  | Emmanuela Orsini          | Evaluating suitable cryptographic primitives within MPC engine |
 | 14:45--15:30  | TBA                       | Homomorphic Encryption |
 | 15:30--16:00  | Break                     |               |
-| **Session on Theory and Conrete Constructions** | |       |
-| 16:00--16:45  | TBA                       | Theory        |
-| 16:45--17:30  | Pavol Zajac               | Multiplicative complexity in block cipher design and analysis |
+| **Session on Conrete Constructions** | |       |
+| 16:00--16:45  | Pavol Zajac               | Multiplicative complexity in block cipher design and analysis |
+| 16:45--17:30  | Tyge Tiessen              | Update on LowMC v3        |
 
 ## Organizer
 
 Christian Rechberger
 ![DTU](img/dtu.jpg)
-![TU Graz](img/1200px-TU_Graz.svg.jpg)
+![TU Graz](img/1200px-TU_Graz.svg.png)
 
 
 ## Sponsors
