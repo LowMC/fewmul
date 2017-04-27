@@ -28,9 +28,11 @@ This one-time workshop aims to provide an overview of results, applications and 
 
 ## Organizer
 
-Christian Rechberger
+**Christian Rechberger**
+
 ![DTU](img/dtu.jpg)
-![TU Graz](img/1200px-TU_Graz.svg.png)
+
+![TU Graz](img/tugraz.svg)
 
 
 ## Sponsors
