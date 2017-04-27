@@ -30,7 +30,7 @@ This one-time workshop aims to provide an overview of results, applications and 
 
 **Christian Rechberger**
 
-![DTU](img/dtu.jpg)
+<img style="max-width: 24rem;" src="img/dtu.jpg">
 
 ![TU Graz](img/tugraz.svg)
 
