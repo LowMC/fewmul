@@ -11,8 +11,8 @@ This one-time workshop aims to provide an overview of results, applications and 
 | **Time**      | **Speaker**               | **Title**     |
 |:--------------|:--------------------------|:--------------|
 | 08:00--09:00  | Breakfast                 |               |
-| **Session on Side-Channel Topics** |      |               |
-| 09:00--09:45  | Francois-Xavier Standaert | TBA           |
+| **Intro and Session on Side-Channel Topics** |      |               |
+| 09:30--09:45  |  Christian Rechberger     | Introduction |
 | 09:45--10:30  | Begül Bilgin              | FewMul-FewDepth-FewLength Triangle |
 | 10:30--11:00  | Break                     |               |
 | **Session on Foundations** |              |               |
