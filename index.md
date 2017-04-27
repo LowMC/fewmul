@@ -2,7 +2,7 @@ Cryptographic primitives realized with few multiplications can significantly imp
 
 This one-time workshop aims to provide an overview of results, applications and current research in this area. This covers theory, design and analysis, as well as implementations. Major goals are to bring together researchers from the unusual set of relevant disciplines within cryptography/security and outside (e.g. circuit complexity), and to identify open problems and more applications.
 
- * **Location:** [Jussieu campus of Université Pierre et Marie Curie](https://www.ieee-security.org/TC/EuroSP2017/venue.php)
+ * **Location:** [Jussieu campus of Université Pierre et Marie Curie](https://www.ieee-security.org/TC/EuroSP2017/venue.php) Room 116
  * **Date:** Sunday, April 30th, 2017
 
 
@@ -26,8 +26,13 @@ This one-time workshop aims to provide an overview of results, applications and 
 | 16:00--16:45  | TBA                       | Theory        |
 | 16:45--17:30  | Pavol Zajac               | Multiplicative complexity in block cipher design and analysis |
 
+## Organizer
+
+Christian Rechberger
+![DTU](img/dtu.jpg)
+![TU Graz](img/1200px-TU_Graz.svg.jpg)
+
+
 ## Sponsors
 
 ![Villum](img/villum.jpg)
-
-![DTU](img/dtu.jpg)
