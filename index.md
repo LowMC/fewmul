@@ -18,13 +18,13 @@ This one-time workshop aims to provide an overview of results, applications and 
 | **Session on Foundations** |              |               |
 | 11:00--12:00  | Rene Peralta              | Functions with known multiplicative complexity |
 | 12:00--14:00  | Lunch                     |               |
-| **Session on Applications** |             |               |
-| 14:00--15:30  | Emmanuela Orsini          | Evaluating suitable cryptographic primitives within MPC engine |
-| 14:45--15:30  | TBA                       | Homomorphic Encryption |
+| **Session on Applications: MPC and SNARKS** |             |               |
+| 14:00--14:45  | Arnab Roy                 | MiMC and SNARKS  |
+| 14:45--15:30  | Emmanuela Orsini          | Efficient evaluation of symmetric primitives in MPC |
 | 15:30--16:00  | Break                     |               |
 | **Session on Conrete Constructions** | |       |
 | 16:00--16:45  | Pavol Zajac               | Multiplicative complexity in block cipher design and analysis |
-| 16:45--17:30  | Tyge Tiessen              | Update on LowMC v3        |
+| 16:45--17:30  | Tyge Tiessen              | LowMC v3: a security update for new applications     |
 
 ## Organizer
 
