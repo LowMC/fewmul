@@ -24,8 +24,7 @@ This one-time workshop aims to provide an overview of results, applications and 
 | 15:30--16:00  | Break                     |               |
 | **Session on Conrete Constructions** | |       |
 | 16:00--16:45  | Pavol Zajac               | Multiplicative complexity in block cipher design and analysis |
-| 16:45--17:30  | Tyge Tiessen              | LowMC v3: a security update for new applications     |
-
+| 16:45--17:30  | Tyge Tiessen              | [LowMC v3: a security update application](talks/tiessen.pdf) | 
 ## Organizer
 
 **Christian Rechberger**
