@@ -12,19 +12,20 @@ This one-time workshop aims to provide an overview of results, applications and 
 |:--------------|:--------------------------|:--------------|
 | 08:00--09:00  | Breakfast                 |               |
 | **Intro and Session on Side-Channel Topics** |      |               |
-| 09:30--09:45  |  Christian Rechberger     | Introduction |
+| 09:30--09:45  |  Christian Rechberger     | [Introduction](talks/rechberger.pdf) |
 | 09:45--10:30  | Begül Bilgin              | FewMul-FewDepth-FewLength Triangle |
 | 10:30--11:00  | Break                     |               |
 | **Session on Foundations** |              |               |
-| 11:00--12:00  | Rene Peralta              | Functions with known multiplicative complexity |
+| 11:00--12:00  | Rene Peralta              | [Functions with known multiplicative complexity](talks/peralta.pdf) |
 | 12:00--14:00  | Lunch                     |               |
 | **Session on Applications: MPC and SNARKS** |             |               |
-| 14:00--14:45  | Arnab Roy                 | MiMC and SNARKS  |
+| 14:00--14:45  | Arnab Roy                 | [MiMC and SNARKS](talks/roy.pdf)  |
 | 14:45--15:30  | Emmanuela Orsini          | Efficient evaluation of symmetric primitives in MPC |
 | 15:30--16:00  | Break                     |               |
 | **Session on Conrete Constructions** | |       |
-| 16:00--16:45  | Pavol Zajac               | Multiplicative complexity in block cipher design and analysis |
+| 16:00--16:45  | Pavol Zajac               | [Multiplicative complexity in block cipher design and analysis](talks/zajac.pdf) |
 | 16:45--17:30  | Tyge Tiessen              | [LowMC v3: a security update application](talks/tiessen.pdf) | 
+
 ## Organizer
 
 **Christian Rechberger**
